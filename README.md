@@ -1,4 +1,4 @@
-# stock-buy-system-ni-MauWen
+# stock buy system ni MauWen with Receipt
 Stock system. User inputs products, stock and prices, then next part user2 can buy and get receipt.
 
 if editing this file, do not try to change only one part, change every other with similar name.
@@ -16,3 +16,5 @@ and will shoulder no responsibility, or blame for whatever happens. This applies
 you are free to edit this program to your will, and also remove this. as long as the rules given are still applied and still applicable.
 
 If ever there are questions please contact MauWen You know who he is (>_<) *wink wink*
+
+#(>_<)
