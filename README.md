@@ -9,7 +9,7 @@ For what ever usage this product is used for, the creator is not responsible.
 
 This is but a simple program made by MauWen, and do not even bother ridiculing it... he will not listen
 
-I hate repeating myself but, for any purposes this program is used for, the creator, MauWed is not responsible
+I hate repeating myself but, for any purposes this program is used for, the creator, MauWen is not responsible
 
 and will shoulder no responsibility, or blame for whatever happens. This applies to the three parties involved: the accused, the creator, and the accuser, and also to the other parties, if ever there are.
 
