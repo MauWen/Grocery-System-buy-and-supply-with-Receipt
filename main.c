@@ -1,6 +1,6 @@
 /*For what ever usage this product is used for, the creator is not responsible.*/
 /*This is but a simple program made by MauWen, and do not even bother ridiculing it... he will not listen*/
-/*I hate repeating myself but, for any purposes this program is used for, the creator, MauWed is not responsible*/
+/*I hate repeating myself but, for any purposes this program is used for, the creator, MauWen is not responsible*/
 /*and will shoulder no responsibility, or blame for whatever happens. This applies to the three parties involved,*/
 /*the accused, the creator, and the accuser, and also to the other parties, if ever there are.*/
 /* you are free to edit this program to your will, and also remove this. as long as the rules given are still applied and still applicable.*/
