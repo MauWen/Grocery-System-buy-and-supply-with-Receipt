@@ -17,4 +17,4 @@ you are free to edit this program to your will, and also remove this. as long as
 
 If ever there are questions please contact MauWen You know who he is (>_<) *wink wink*
 
-#(>_<) (*__*) (@_@) (T_T) (#.#) ($v$) (~__~)
+#(>__<) (*__*) (@__@) (T__T) (#.#) ($__$) (~__~)
