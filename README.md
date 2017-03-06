@@ -1,4 +1,4 @@
-# stock-buy-system-ni-MauWed
+# stock-buy-system-ni-MauWen
 Stock system. User inputs products, stock and prices, then next part user2 can buy and get receipt.
 
 if editing this file, do not try to change only one part, change every other with similar name.
